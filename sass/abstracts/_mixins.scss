@@ -1,0 +1,118 @@
+.flex-structure-horizontal{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.flex-structure-vertical{
+  display: flex;
+  flex-direction: column;
+}
+
+.octuple-menu{
+  display: flex;
+  flex-direction: column;
+
+  .logo-text{
+    padding-left: $space-m;
+    font-size: $text-font-size-10;
+    line-height: $text-line-height-9;
+    //color: $eightfold-logo-gradient;
+    font-weight: $text-font-weight-black;
+    font-family: Source Sans Pro;
+    background: $eightfold-logo-gradient;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+.spacer{
+
+  &.button-spacer{
+    width: $space-xs;
+  }
+
+  &.space-m{
+    min-width: $space-m;
+  }
+
+  &.chevron-spacer{
+    width: $space-xxs;
+  }
+
+}
+
+.custom-padding-vertical{
+
+  .m{
+    min-height: $space-m;
+  }
+
+  .l{
+    min-height: $space-l;
+  }
+
+  .xl{
+    min-height: $space-xl;
+  }
+
+  .xxl{
+    min-height: $space-xxl;
+  }
+
+  .xxxl{
+    min-height: $space-xxxl;
+  }
+
+}
+
+.icon, .chevron-icon {
+  display: flex;
+  align-items: center!important;
+  text-align: center!important;
+
+  .icon-1-material{
+    font-size: $icon-font-size-material-l;
+    height: $text-line-height-3;
+  }
+
+  .icon-1-fontawesome{
+    font-size: $icon-font-size-fontawesome-l;
+    height: $text-line-height-3;
+    //padding: $space-xxxs $disabled-zero;
+  }
+
+  .icon-2-material{
+    font-size: $icon-font-size-material-m;
+    height: $text-line-height-2;
+  }
+
+  .icon-2-fontawesome{
+    font-size: $icon-font-size-fontawesome-m;
+    height: $text-line-height-2;
+    //padding: $space-xxxs $disabled-zero;
+  }
+
+  .icon-3-material{
+    font-size: $icon-font-size-material-s;
+    height: $text-line-height-1;
+  }
+
+  .icon-3-fontawesome{
+    font-size: $icon-font-size-fontawesome-s;
+    height: $text-line-height-1;
+    //padding: $space-xxxs $disabled-zero;
+  }
+
+  .icon-4-material{
+    font-size: $icon-font-size-material-xs;
+    height: $text-line-height-1;
+  }
+
+  .icon-4-fontawesome{
+    font-size: $icon-font-size-fontawesome-xs;
+    height: $text-line-height-1;
+    //padding: $space-xxxs $disabled-zero;
+  }
+
+}

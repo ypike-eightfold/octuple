@@ -1,0 +1,2360 @@
+/*!
+ * Font Awesome Pro 6.0.0-beta2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Commercial License)
+ */
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../../webfonts/fa-brands-400.woff2") format("woff2"), url("../../webfonts/fa-brands-400.ttf") format("truetype");
+}
+
+/* line 17, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fab,
+.fa-brands {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-42-group:before {
+  content: "\e080";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-innosoft:before {
+  content: "\e080";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-500px:before {
+  content: "\f26e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-accessible-icon:before {
+  content: "\f368";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-accusoft:before {
+  content: "\f369";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-acquisitions-incorporated:before {
+  content: "\f6af";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-adn:before {
+  content: "\f170";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-adversal:before {
+  content: "\f36a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-affiliatetheme:before {
+  content: "\f36b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-airbnb:before {
+  content: "\f834";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-algolia:before {
+  content: "\f36c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-alipay:before {
+  content: "\f642";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-amazon:before {
+  content: "\f270";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-amazon-pay:before {
+  content: "\f42c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-amilia:before {
+  content: "\f36d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-android:before {
+  content: "\f17b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-angellist:before {
+  content: "\f209";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-angrycreative:before {
+  content: "\f36e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-angular:before {
+  content: "\f420";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-app-store:before {
+  content: "\f36f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-app-store-ios:before {
+  content: "\f370";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-apper:before {
+  content: "\f371";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-apple:before {
+  content: "\f179";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-apple-pay:before {
+  content: "\f415";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-artstation:before {
+  content: "\f77a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-asymmetrik:before {
+  content: "\f372";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-atlassian:before {
+  content: "\f77b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-audible:before {
+  content: "\f373";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-autoprefixer:before {
+  content: "\f41c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-avianex:before {
+  content: "\f374";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-aviato:before {
+  content: "\f421";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-aws:before {
+  content: "\f375";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bandcamp:before {
+  content: "\f2d5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-battle-net:before {
+  content: "\f835";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-behance:before {
+  content: "\f1b4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-behance-square:before {
+  content: "\f1b5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bilibili:before {
+  content: "\e3d9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bimobject:before {
+  content: "\f378";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bitbucket:before {
+  content: "\f171";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bitcoin:before {
+  content: "\f379";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bity:before {
+  content: "\f37a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-black-tie:before {
+  content: "\f27e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-blackberry:before {
+  content: "\f37b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-blogger:before {
+  content: "\f37c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-blogger-b:before {
+  content: "\f37d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bluetooth:before {
+  content: "\f293";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bluetooth-b:before {
+  content: "\f294";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bootstrap:before {
+  content: "\f836";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-bots:before {
+  content: "\e340";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-btc:before {
+  content: "\f15a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-buffer:before {
+  content: "\f837";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-buromobelexperte:before {
+  content: "\f37f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-buy-n-large:before {
+  content: "\f8a6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-buysellads:before {
+  content: "\f20d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-canadian-maple-leaf:before {
+  content: "\f785";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-amazon-pay:before {
+  content: "\f42d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-amex:before {
+  content: "\f1f3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-apple-pay:before {
+  content: "\f416";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-diners-club:before {
+  content: "\f24c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-discover:before {
+  content: "\f1f2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-jcb:before {
+  content: "\f24b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-mastercard:before {
+  content: "\f1f1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-paypal:before {
+  content: "\f1f4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-stripe:before {
+  content: "\f1f5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cc-visa:before {
+  content: "\f1f0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-centercode:before {
+  content: "\f380";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-centos:before {
+  content: "\f789";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-chrome:before {
+  content: "\f268";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-chromecast:before {
+  content: "\f838";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cloudflare:before {
+  content: "\e07d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cloudscale:before {
+  content: "\f383";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cloudsmith:before {
+  content: "\f384";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cloudversify:before {
+  content: "\f385";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cmplid:before {
+  content: "\e360";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-codepen:before {
+  content: "\f1cb";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-codiepie:before {
+  content: "\f284";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-confluence:before {
+  content: "\f78d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-connectdevelop:before {
+  content: "\f20e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-contao:before {
+  content: "\f26d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cotton-bureau:before {
+  content: "\f89e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cpanel:before {
+  content: "\f388";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons:before {
+  content: "\f25e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-by:before {
+  content: "\f4e7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-nc:before {
+  content: "\f4e8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-nc-eu:before {
+  content: "\f4e9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-nc-jp:before {
+  content: "\f4ea";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-nd:before {
+  content: "\f4eb";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-pd:before {
+  content: "\f4ec";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-pd-alt:before {
+  content: "\f4ed";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-remix:before {
+  content: "\f4ee";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-sa:before {
+  content: "\f4ef";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-sampling:before {
+  content: "\f4f0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-sampling-plus:before {
+  content: "\f4f1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-share:before {
+  content: "\f4f2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-creative-commons-zero:before {
+  content: "\f4f3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-critical-role:before {
+  content: "\f6c9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-css3:before {
+  content: "\f13c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-css3-alt:before {
+  content: "\f38b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-cuttlefish:before {
+  content: "\f38c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-d-and-d:before {
+  content: "\f38d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-d-and-d-beyond:before {
+  content: "\f6ca";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dailymotion:before {
+  content: "\e052";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dashcube:before {
+  content: "\f210";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-deezer:before {
+  content: "\e077";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-delicious:before {
+  content: "\f1a5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-deploydog:before {
+  content: "\f38e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-deskpro:before {
+  content: "\f38f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dev:before {
+  content: "\f6cc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-deviantart:before {
+  content: "\f1bd";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dhl:before {
+  content: "\f790";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-diaspora:before {
+  content: "\f791";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-digg:before {
+  content: "\f1a6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-digital-ocean:before {
+  content: "\f391";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-discord:before {
+  content: "\f392";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-discourse:before {
+  content: "\f393";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dochub:before {
+  content: "\f394";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-docker:before {
+  content: "\f395";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-draft2digital:before {
+  content: "\f396";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dribbble:before {
+  content: "\f17d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dribbble-square:before {
+  content: "\f397";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dropbox:before {
+  content: "\f16b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-drupal:before {
+  content: "\f1a9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-dyalog:before {
+  content: "\f399";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-earlybirds:before {
+  content: "\f39a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ebay:before {
+  content: "\f4f4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-edge:before {
+  content: "\f282";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-edge-legacy:before {
+  content: "\e078";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-elementor:before {
+  content: "\f430";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ello:before {
+  content: "\f5f1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ember:before {
+  content: "\f423";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-empire:before {
+  content: "\f1d1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-envira:before {
+  content: "\f299";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-erlang:before {
+  content: "\f39d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ethereum:before {
+  content: "\f42e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-etsy:before {
+  content: "\f2d7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-evernote:before {
+  content: "\f839";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-expeditedssl:before {
+  content: "\f23e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-facebook:before {
+  content: "\f09a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-facebook-messenger:before {
+  content: "\f39f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-facebook-square:before {
+  content: "\f082";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fantasy-flight-games:before {
+  content: "\f6dc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fedex:before {
+  content: "\f797";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fedora:before {
+  content: "\f798";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-figma:before {
+  content: "\f799";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-firefox:before {
+  content: "\f269";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-firefox-browser:before {
+  content: "\e007";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-first-order:before {
+  content: "\f2b0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-first-order-alt:before {
+  content: "\f50a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-firstdraft:before {
+  content: "\f3a1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-flickr:before {
+  content: "\f16e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-flipboard:before {
+  content: "\f44d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fly:before {
+  content: "\f417";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-font-awesome:before {
+  content: "\f2b4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-font-awesome-flag:before {
+  content: "\f2b4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-font-awesome-logo-full:before {
+  content: "\f2b4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fonticons:before {
+  content: "\f280";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fonticons-fi:before {
+  content: "\f3a2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fort-awesome:before {
+  content: "\f286";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fort-awesome-alt:before {
+  content: "\f3a3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-forumbee:before {
+  content: "\f211";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-foursquare:before {
+  content: "\f180";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-free-code-camp:before {
+  content: "\f2c5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-freebsd:before {
+  content: "\f3a4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-fulcrum:before {
+  content: "\f50b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-galactic-republic:before {
+  content: "\f50c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-galactic-senate:before {
+  content: "\f50d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-get-pocket:before {
+  content: "\f265";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gg:before {
+  content: "\f260";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gg-circle:before {
+  content: "\f261";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-git:before {
+  content: "\f1d3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-git-alt:before {
+  content: "\f841";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-git-square:before {
+  content: "\f1d2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-github:before {
+  content: "\f09b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-github-alt:before {
+  content: "\f113";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-github-square:before {
+  content: "\f092";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gitkraken:before {
+  content: "\f3a6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gitlab:before {
+  content: "\f296";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gitter:before {
+  content: "\f426";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-glide:before {
+  content: "\f2a5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-glide-g:before {
+  content: "\f2a6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gofore:before {
+  content: "\f3a7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-golang:before {
+  content: "\e40f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-goodreads:before {
+  content: "\f3a8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-goodreads-g:before {
+  content: "\f3a9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google:before {
+  content: "\f1a0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-drive:before {
+  content: "\f3aa";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-pay:before {
+  content: "\e079";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-play:before {
+  content: "\f3ab";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-plus:before {
+  content: "\f2b3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-plus-g:before {
+  content: "\f0d5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-plus-square:before {
+  content: "\f0d4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-google-wallet:before {
+  content: "\f1ee";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gratipay:before {
+  content: "\f184";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-grav:before {
+  content: "\f2d6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gripfire:before {
+  content: "\f3ac";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-grunt:before {
+  content: "\f3ad";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-guilded:before {
+  content: "\e07e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-gulp:before {
+  content: "\f3ae";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hacker-news:before {
+  content: "\f1d4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hacker-news-square:before {
+  content: "\f3af";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hackerrank:before {
+  content: "\f5f7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hips:before {
+  content: "\f452";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hire-a-helper:before {
+  content: "\f3b0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hive:before {
+  content: "\e07f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hooli:before {
+  content: "\f427";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hornbill:before {
+  content: "\f592";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hotjar:before {
+  content: "\f3b1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-houzz:before {
+  content: "\f27c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-html5:before {
+  content: "\f13b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-hubspot:before {
+  content: "\f3b2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ideal:before {
+  content: "\e013";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-imdb:before {
+  content: "\f2d8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-instagram:before {
+  content: "\f16d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-instagram-square:before {
+  content: "\e055";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-instalod:before {
+  content: "\e081";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-intercom:before {
+  content: "\f7af";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-internet-explorer:before {
+  content: "\f26b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-invision:before {
+  content: "\f7b0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ioxhost:before {
+  content: "\f208";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-itch-io:before {
+  content: "\f83a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-itunes:before {
+  content: "\f3b4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-itunes-note:before {
+  content: "\f3b5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-java:before {
+  content: "\f4e4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-jedi-order:before {
+  content: "\f50e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-jenkins:before {
+  content: "\f3b6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-jira:before {
+  content: "\f7b1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-joget:before {
+  content: "\f3b7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-joomla:before {
+  content: "\f1aa";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-js:before {
+  content: "\f3b8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-js-square:before {
+  content: "\f3b9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-jsfiddle:before {
+  content: "\f1cc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-kaggle:before {
+  content: "\f5fa";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-keybase:before {
+  content: "\f4f5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-keycdn:before {
+  content: "\f3ba";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-kickstarter:before {
+  content: "\f3bb";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-kickstarter-k:before {
+  content: "\f3bc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-korvue:before {
+  content: "\f42f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-laravel:before {
+  content: "\f3bd";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-lastfm:before {
+  content: "\f202";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-lastfm-square:before {
+  content: "\f203";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-leanpub:before {
+  content: "\f212";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-less:before {
+  content: "\f41d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-line:before {
+  content: "\f3c0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-linkedin:before {
+  content: "\f08c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-linkedin-in:before {
+  content: "\f0e1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-linode:before {
+  content: "\f2b8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-linux:before {
+  content: "\f17c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-lyft:before {
+  content: "\f3c3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-magento:before {
+  content: "\f3c4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mailchimp:before {
+  content: "\f59e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mandalorian:before {
+  content: "\f50f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-markdown:before {
+  content: "\f60f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mastodon:before {
+  content: "\f4f6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-maxcdn:before {
+  content: "\f136";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mdb:before {
+  content: "\f8ca";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-medapps:before {
+  content: "\f3c6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-medium:before {
+  content: "\f23a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-medium-m:before {
+  content: "\f23a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-medrt:before {
+  content: "\f3c8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-meetup:before {
+  content: "\f2e0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-megaport:before {
+  content: "\f5a3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mendeley:before {
+  content: "\f7b3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-microblog:before {
+  content: "\e01a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-microsoft:before {
+  content: "\f3ca";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mix:before {
+  content: "\f3cb";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mixcloud:before {
+  content: "\f289";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mixer:before {
+  content: "\e056";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-mizuni:before {
+  content: "\f3cc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-modx:before {
+  content: "\f285";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-monero:before {
+  content: "\f3d0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-napster:before {
+  content: "\f3d2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-neos:before {
+  content: "\f612";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-nimblr:before {
+  content: "\f5a8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-node:before {
+  content: "\f419";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-node-js:before {
+  content: "\f3d3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-npm:before {
+  content: "\f3d4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ns8:before {
+  content: "\f3d5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-nutritionix:before {
+  content: "\f3d6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-octopus-deploy:before {
+  content: "\e082";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-odnoklassniki:before {
+  content: "\f263";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-odnoklassniki-square:before {
+  content: "\f264";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-old-republic:before {
+  content: "\f510";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-opencart:before {
+  content: "\f23d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-openid:before {
+  content: "\f19b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-opera:before {
+  content: "\f26a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-optin-monster:before {
+  content: "\f23c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-orcid:before {
+  content: "\f8d2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-osi:before {
+  content: "\f41a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-page4:before {
+  content: "\f3d7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pagelines:before {
+  content: "\f18c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-palfed:before {
+  content: "\f3d8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-patreon:before {
+  content: "\f3d9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-paypal:before {
+  content: "\f1ed";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-penny-arcade:before {
+  content: "\f704";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-perbyte:before {
+  content: "\e083";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-periscope:before {
+  content: "\f3da";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-phabricator:before {
+  content: "\f3db";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-phoenix-framework:before {
+  content: "\f3dc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-phoenix-squadron:before {
+  content: "\f511";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-php:before {
+  content: "\f457";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pied-piper:before {
+  content: "\f2ae";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pied-piper-alt:before {
+  content: "\f1a8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pied-piper-hat:before {
+  content: "\f4e5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pied-piper-pp:before {
+  content: "\f1a7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pied-piper-square:before {
+  content: "\e01e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pinterest:before {
+  content: "\f0d2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pinterest-p:before {
+  content: "\f231";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pinterest-square:before {
+  content: "\f0d3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pix:before {
+  content: "\e43a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-playstation:before {
+  content: "\f3df";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-product-hunt:before {
+  content: "\f288";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-pushed:before {
+  content: "\f3e1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-python:before {
+  content: "\f3e2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-qq:before {
+  content: "\f1d6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-quinscape:before {
+  content: "\f459";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-quora:before {
+  content: "\f2c4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-r-project:before {
+  content: "\f4f7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-raspberry-pi:before {
+  content: "\f7bb";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ravelry:before {
+  content: "\f2d9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-react:before {
+  content: "\f41b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-reacteurope:before {
+  content: "\f75d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-readme:before {
+  content: "\f4d5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-rebel:before {
+  content: "\f1d0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-red-river:before {
+  content: "\f3e3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-reddit:before {
+  content: "\f1a1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-reddit-alien:before {
+  content: "\f281";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-reddit-square:before {
+  content: "\f1a2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-redhat:before {
+  content: "\f7bc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-renren:before {
+  content: "\f18b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-replyd:before {
+  content: "\f3e6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-researchgate:before {
+  content: "\f4f8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-resolving:before {
+  content: "\f3e7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-rev:before {
+  content: "\f5b2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-rocketchat:before {
+  content: "\f3e8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-rockrms:before {
+  content: "\f3e9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-rust:before {
+  content: "\e07a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-safari:before {
+  content: "\f267";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-salesforce:before {
+  content: "\f83b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sass:before {
+  content: "\f41e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-schlix:before {
+  content: "\f3ea";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-scribd:before {
+  content: "\f28a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-searchengin:before {
+  content: "\f3eb";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sellcast:before {
+  content: "\f2da";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sellsy:before {
+  content: "\f213";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-servicestack:before {
+  content: "\f3ec";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-shirtsinbulk:before {
+  content: "\f214";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-shopify:before {
+  content: "\e057";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-shopware:before {
+  content: "\f5b5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-simplybuilt:before {
+  content: "\f215";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sistrix:before {
+  content: "\f3ee";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sith:before {
+  content: "\f512";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sitrox:before {
+  content: "\e44a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sketch:before {
+  content: "\f7c6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-skyatlas:before {
+  content: "\f216";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-skype:before {
+  content: "\f17e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-slack:before {
+  content: "\f198";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-slack-hash:before {
+  content: "\f198";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-slideshare:before {
+  content: "\f1e7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-snapchat:before {
+  content: "\f2ab";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-snapchat-ghost:before {
+  content: "\f2ab";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-snapchat-square:before {
+  content: "\f2ad";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-soundcloud:before {
+  content: "\f1be";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sourcetree:before {
+  content: "\f7d3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-speakap:before {
+  content: "\f3f3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-speaker-deck:before {
+  content: "\f83c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-spotify:before {
+  content: "\f1bc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-square-font-awesome:before {
+  content: "\f425";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-square-font-awesome-stroke:before {
+  content: "\f35c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-font-awesome-alt:before {
+  content: "\f35c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-squarespace:before {
+  content: "\f5be";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stack-exchange:before {
+  content: "\f18d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stack-overflow:before {
+  content: "\f16c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stackpath:before {
+  content: "\f842";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-staylinked:before {
+  content: "\f3f5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-steam:before {
+  content: "\f1b6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-steam-square:before {
+  content: "\f1b7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-steam-symbol:before {
+  content: "\f3f6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-sticker-mule:before {
+  content: "\f3f7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-strava:before {
+  content: "\f428";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stripe:before {
+  content: "\f429";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stripe-s:before {
+  content: "\f42a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-studiovinari:before {
+  content: "\f3f8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stumbleupon:before {
+  content: "\f1a4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-stumbleupon-circle:before {
+  content: "\f1a3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-superpowers:before {
+  content: "\f2dd";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-supple:before {
+  content: "\f3f9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-suse:before {
+  content: "\f7d6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-swift:before {
+  content: "\f8e1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-symfony:before {
+  content: "\f83d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-teamspeak:before {
+  content: "\f4f9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-telegram:before {
+  content: "\f2c6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-telegram-plane:before {
+  content: "\f2c6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-tencent-weibo:before {
+  content: "\f1d5";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-the-red-yeti:before {
+  content: "\f69d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-themeco:before {
+  content: "\f5c6";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-themeisle:before {
+  content: "\f2b2";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-think-peaks:before {
+  content: "\f731";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-tiktok:before {
+  content: "\e07b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-trade-federation:before {
+  content: "\f513";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-trello:before {
+  content: "\f181";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-tumblr:before {
+  content: "\f173";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-tumblr-square:before {
+  content: "\f174";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-twitch:before {
+  content: "\f1e8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-twitter:before {
+  content: "\f099";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-twitter-square:before {
+  content: "\f081";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-typo3:before {
+  content: "\f42b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-uber:before {
+  content: "\f402";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ubuntu:before {
+  content: "\f7df";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-uikit:before {
+  content: "\f403";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-umbraco:before {
+  content: "\f8e8";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-uncharted:before {
+  content: "\e084";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-uniregistry:before {
+  content: "\f404";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-unity:before {
+  content: "\e049";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-unsplash:before {
+  content: "\e07c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-untappd:before {
+  content: "\f405";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ups:before {
+  content: "\f7e0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-usb:before {
+  content: "\f287";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-usps:before {
+  content: "\f7e1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-ussunnah:before {
+  content: "\f407";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vaadin:before {
+  content: "\f408";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-viacoin:before {
+  content: "\f237";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-viadeo:before {
+  content: "\f2a9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-viadeo-square:before {
+  content: "\f2aa";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-viber:before {
+  content: "\f409";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vimeo:before {
+  content: "\f40a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vimeo-square:before {
+  content: "\f194";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vimeo-v:before {
+  content: "\f27d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vine:before {
+  content: "\f1ca";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vk:before {
+  content: "\f189";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vnv:before {
+  content: "\f40b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-vuejs:before {
+  content: "\f41f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-watchman-monitoring:before {
+  content: "\e087";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-waze:before {
+  content: "\f83f";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-weebly:before {
+  content: "\f5cc";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-weibo:before {
+  content: "\f18a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-weixin:before {
+  content: "\f1d7";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-whatsapp:before {
+  content: "\f232";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-whatsapp-square:before {
+  content: "\f40c";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-whmcs:before {
+  content: "\f40d";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wikipedia-w:before {
+  content: "\f266";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-windows:before {
+  content: "\f17a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wirsindhandwerk:before {
+  content: "\e2d0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wsh:before {
+  content: "\e2d0";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wix:before {
+  content: "\f5cf";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wizards-of-the-coast:before {
+  content: "\f730";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wodu:before {
+  content: "\e088";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wolf-pack-battalion:before {
+  content: "\f514";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wordpress:before {
+  content: "\f19a";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wordpress-simple:before {
+  content: "\f411";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wpbeginner:before {
+  content: "\f297";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wpexplorer:before {
+  content: "\f2de";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wpforms:before {
+  content: "\f298";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-wpressr:before {
+  content: "\f3e4";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-xbox:before {
+  content: "\f412";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-xing:before {
+  content: "\f168";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-xing-square:before {
+  content: "\f169";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-y-combinator:before {
+  content: "\f23b";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yahoo:before {
+  content: "\f19e";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yammer:before {
+  content: "\f840";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yandex:before {
+  content: "\f413";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yandex-international:before {
+  content: "\f414";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yarn:before {
+  content: "\f7e3";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yelp:before {
+  content: "\f1e9";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-yoast:before {
+  content: "\f2b1";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-youtube:before {
+  content: "\f167";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-youtube-square:before {
+  content: "\f431";
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/brands.scss */
+.fa-zhihu:before {
+  content: "\f63f";
+}
+
+/*# sourceMappingURL=brands.css.map */

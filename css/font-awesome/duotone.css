@@ -1,0 +1,75 @@
+/*!
+ * Font Awesome Pro 6.0.0-beta2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Commercial License)
+ */
+@font-face {
+  font-family: 'Font Awesome 6 Duotone';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../../webfonts/fa-duotone-900.woff2") format("woff2"), url("../../webfonts/fa-duotone-900.ttf") format("truetype");
+}
+
+/* line 17, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fad,
+.fa-duotone {
+  position: relative;
+  font-family: 'Font Awesome 6 Duotone';
+  font-weight: 900;
+}
+
+/* line 24, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fad::before,
+.fa-duotone::before {
+  position: absolute;
+  color: var(--fa-primary-color, inherit);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+/* line 31, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fad::after,
+.fa-duotone::after {
+  color: var(--fa-secondary-color, inherit);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+/* line 37, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fa-swap-opacity .fad::before,
+.fa-swap-opacity .fa-duotone::before,
+.fad.fa-swap-opacity::before,
+.fa-duotone.fa-swap-opacity::before {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+/* line 44, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fa-swap-opacity .fad::after,
+.fa-swap-opacity .fa-duotone::after,
+.fad.fa-swap-opacity::after,
+.fa-duotone.fa-swap-opacity::after {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+/* line 51, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+/* line 56, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fad.fa-stack-1x, .fad.fa-stack-2x,
+.fa-duotone.fa-stack-1x, .fa-duotone.fa-stack-2x {
+  position: absolute;
+}
+
+/* line 61, ../../../../../Users/yair/8xDS/sass/font-awesome/duotone.scss */
+.fad.fa-stack-1x::before,
+.fa-duotone.fa-stack-1x::before,
+.fad.fa-stack-2x::before,
+.fa-duotone.fa-stack-2x::before,
+.fad.fa-fw::before,
+.fa-duotone.fa-fw::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/*# sourceMappingURL=duotone.css.map */

@@ -1,0 +1,141 @@
+.button{
+  background-color: inherit;
+  border: rem(2px) solid $button-color-default-active;
+  display: inline-block;
+  transition: all $motion-duration-extra-fast $motion-easing-easeinout 0s;
+  padding: $button-padding-vertical $button-padding-horizontal;
+  border-radius: $corner-radius-s;
+
+  &:disabled {
+    opacity: $disabled-alpha-value;
+    cursor: not-allowed;
+  }
+
+  &:focus-visible {
+    box-sizing: border-box;
+    padding: $space-xs $space-s;
+    border-width: rem(4px);
+  }
+
+  &:active {
+    //box-sizing: border-box;
+    padding: $button-padding-vertical $button-padding-horizontal;
+    //border-width: rem(2px);
+  }
+
+  .menu-padding{
+    padding-right: $space-xs;
+
+    &:active {
+      //box-sizing: border-box;
+      padding-right: $space-xs;
+      //border-width: rem(4px);
+    }
+  }
+
+}
+
+
+.button-primary
+{
+  background-color: $button-color-primary-active;
+  border-color: $button-color-primary-active;
+  color: $button-text__color-primary;
+
+  &:hover {
+    background-color: $button-color-primary-hover;
+    border-color: $button-color-primary-hover;
+  }
+
+  &:active {
+    background-color: $button-color-primary-pressed;
+    border-color: $button-color-primary-pressed;
+  }
+
+  &:focus-visible {
+    border-color: $button-color-primary-focused-border;
+  }
+
+}
+
+.button-secondary
+{
+  border-color: $button-color-secondary-active;
+  color: $button-color-secondary-active;
+
+  &:hover {
+    border-color: $button-color-secondary-hover;
+    color: $button-color-secondary-hover;
+  }
+
+  &:active {
+    border-color: $button-color-secondary-pressed;
+    color: $button-color-secondary-pressed;
+  }
+
+  &:focus-visible {
+    border-color: $button-color-secondary-focused-border;
+  }
+
+}
+
+.button-primary-disruptive
+{
+  background-color: $button-color-disruptive-active;
+  border-color: $button-color-disruptive-active;
+  color: $button-text__color-disruptive;
+
+  &:hover {
+    background-color: $button-color-disruptive-hover;
+    border-color: $button-color-disruptive-hover;
+  }
+
+  &:active {
+    background-color: $button-color-disruptive-pressed;
+    border-color: $button-color-disruptive-pressed;
+  }
+
+  &:focus-visible {
+    border-color: $button-color-disruptive-focused-border;
+  }
+}
+
+.button-secondary-disruptive
+{
+  border-color: $button-color-disruptive-active;
+  color: $button-color-disruptive-active;
+
+  &:hover {
+    border-color: $button-color-disruptive-hover;
+    color: $button-color-disruptive-hover;
+  }
+
+  &:active {
+    border-color: $button-color-disruptive-pressed;
+    color: $button-color-disruptive-pressed;
+  }
+
+  &:focus-visible {
+    border-color: $button-color-disruptive-focused-border;
+  }
+}
+
+.button-default
+{
+  border-color: $button-color-default-active;
+  color: $button-text__color-default;
+
+  &:hover {
+    background-color: $button-color-default-hover;
+    border-color: $button-color-default-hover;
+  }
+
+  &:active {
+    background-color: $button-color-default-pressed;
+    border-color: $button-color-default-pressed;
+  }
+
+  &:focus-visible {
+    border-color: $button-color-default-focused-border;
+  }
+}
