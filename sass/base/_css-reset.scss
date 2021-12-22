@@ -211,6 +211,16 @@ button::-moz-focus-inner,
   padding: 0;
 }
 
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
 /**
  * Restore the focus styles unset by the previous rule.
  */
@@ -347,3 +357,10 @@ template {
 [hidden] {
   display: none;
 }
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+input:focus, textarea:focus, select:focus{
+        outline: none;}

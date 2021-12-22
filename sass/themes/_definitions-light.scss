@@ -108,30 +108,32 @@ $color-tertiary-grey: $grey60;
 $button-color-primary-active: $blue70;
 $button-color-primary-hover: $blue60;
 $button-color-primary-pressed: $blue80;
-$button-color-primary-focused-border: $blue40;
+$button-color-primary-focused-border: $blue80;
 $button-text__color-primary: $grey0;
 
 $button-color-disruptive-active: $red70;
 $button-color-disruptive-hover: $red60;
 $button-color-disruptive-pressed: $red80;
-$button-color-disruptive-focused-border: $red40;
+$button-color-disruptive-focused-border: $red80;
 $button-text__color-disruptive: $grey0;
 
 $button-color-secondary-active: $blue70;
 $button-color-secondary-hover: $blue60;
 $button-color-secondary-pressed: $blue80;
-$button-color-secondary-focused-border: $blue40;
+$button-color-secondary-focused-border: $blue80;
 
 $button-text__color-default: $blue70;
 $button-color-default-hover: $blue20;
 $button-color-default-pressed: $blue10;
-$button-color-default-focused-border: $blue40;
+$button-color-default-focused-border: $blue80;
 $button-color-default-active: rgba(104,186,239, 0.01);
 
 $text-color-primary: $grey90;
 $text-color-secondary: $grey80;
 
 $card-background-color: $grey0;
+
+$input-field-color-enabled: $grey40;
 
 // Gradient Definitions
 
@@ -153,6 +155,7 @@ $space-xxs: rem(4px);
 $space-xs: rem(8px);
 $space-s: rem(12px);
 $space-m: rem(16px);
+$space-l-fitted: rem(20px);
 $space-l: rem(24px);
 $space-xl: rem(32px);
 $space-xxl: rem(40px);
@@ -166,6 +169,7 @@ $button-padding-horizontal: rem(14px);
 $corner-radius-s: rem(4px);
 $corner-radius-m: rem(8px);
 $corner-radius-l: rem(16px);
+$corner-radius-xl: rem(24px);
 
 // Speed / Duration Definitions
 

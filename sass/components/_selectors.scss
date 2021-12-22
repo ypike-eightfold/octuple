@@ -76,8 +76,8 @@ input[type=checkbox].with-font:focus-visible ~ label
 .switch-body {
   position: relative;
   display: inline-block;
-  width: rem(36px);
-  height: $space-m;
+  width: $space-xxl;
+  height: $space-l-fitted;
   border-radius: $space-s;
   border: $space-xxxs solid $color-secondary-blue;
   //background-color: $color-secondary-blue;

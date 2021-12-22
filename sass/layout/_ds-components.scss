@@ -19,10 +19,10 @@
       display: flex;
       flex-flow: row wrap;
       justify-content: flex-start;
-      align-items: center;
+      align-items: flex-start;
       align-content: flex-start;
       gap: $space-m;
-      grid-column: 1/13;
+      grid-column: 1 / 13;
     }
 
     .column-items{
@@ -31,7 +31,20 @@
       justify-content: flex-start;
       //align-items: center;
       gap: $space-l;
-      grid-column: 1/13;
+      grid-column: 1 / 13;
     }
 
+}
+
+.two-column-layout{
+  display: flex;
+  flex-direction: row;
+  gap: $space-xxl;
+  width: 100%;
+  //flex: 0 0 100%;
+  //flex-flow: row wrap;
+  //grid-column: 1 / 7;
+
+  flex-grow: 2;
+  margin: 0;
 }
