@@ -1,5 +1,5 @@
 .display1
-{ // Display 1 
+{ // Display 1
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-light;
 font-size: $text-font-size-12;
@@ -8,7 +8,7 @@ letter-spacing: $text-letter-spacing-l;
 }
 
 .display2
-{ // Display 2 
+{ // Display 2
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-light;
 font-size: $text-font-size-11;
@@ -17,7 +17,7 @@ letter-spacing: $text-letter-spacing-l;
 }
 
 .display3
-{ // Display 3 
+{ // Display 3
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-10;
@@ -26,7 +26,7 @@ letter-spacing: $text-letter-spacing-m;
 }
 
 .display4
-{ // Display 4 
+{ // Display 4
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-9;
@@ -35,7 +35,7 @@ letter-spacing: $text-letter-spacing-m;
 }
 
 .header1
-{ // Header 1 
+{ // Header 1
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-8;
@@ -44,7 +44,7 @@ letter-spacing: $text-letter-spacing-m;
 }
 
 .header2
-{ // Header 2 
+{ // Header 2
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-7;
@@ -53,7 +53,7 @@ letter-spacing: $text-letter-spacing-xs;
 }
 
 .header3
-{ // Header 3 
+{ // Header 3
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-6;
@@ -61,7 +61,7 @@ line-height: $text-line-height-5;
 }
 
 .header4
-{ // Header 4 
+{ // Header 4
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-5;
@@ -69,23 +69,23 @@ line-height: $text-line-height-4;
 }
 
 .header5
-{ // Header 5 
+{ // Header 5
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-3;
-line-height: $text-line-height-2;
+line-height: $text-line-height-3;
 }
 
 .header6
-{ // Header 5 
+{ // Header 5
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-2;
-line-height: $text-line-height-1;
+line-height: $text-line-height-2;
 }
 
 .subtitle1
-{ // Subtitle 1 
+{ // Subtitle 1
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-7;
@@ -94,7 +94,7 @@ letter-spacing: $text-letter-spacing-s;
 }
 
 .subtitle2
-{ // Subtitle 2 
+{ // Subtitle 2
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-6;
@@ -103,7 +103,7 @@ letter-spacing: $text-letter-spacing-xs;
 }
 
 .pre-display
-{ // Pre-Dsiplay 
+{ // Pre-Dsiplay
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-5;
@@ -112,7 +112,7 @@ text-transform: uppercase;
 }
 
 .button1
-{ // Button 1 (Mobile L) 
+{ // Button 1 (Mobile L)
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-5;
@@ -120,7 +120,7 @@ line-height: $text-line-height-3;
 }
 
 .button2
-{ // Button 2 (Mobile M, Desktop L) 
+{ // Button 2 (Mobile M, Desktop L)
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-3;
@@ -128,7 +128,7 @@ line-height: $text-line-height-2;
 }
 
 .button3
-{ // Button 3 (Desktop M) 
+{ // Button 3 (Desktop M)
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-2;
@@ -136,15 +136,15 @@ line-height: $text-line-height-1;
 }
 
 .body1
-{ // Body 1 (Mobile L) 
+{ // Body 1 (Mobile L)
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-4;
-line-height: $text-line-height-3;
+line-height: $text-line-height-4;
 }
 
 .body2
-{ // Body 2 (Mobile M, Desktop L) 
+{ // Body 2 (Mobile M, Desktop L)
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-3;
@@ -152,7 +152,7 @@ line-height: $text-line-height-3;
 }
 
 .body3
-{ // Body 3 (Desktop M) 
+{ // Body 3 (Desktop M)
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-2;
@@ -160,7 +160,7 @@ line-height: $text-line-height-2;
 }
 
 .caption
-{ // Caption 
+{ // Caption
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-1;
