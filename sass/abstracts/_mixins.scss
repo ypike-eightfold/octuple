@@ -32,8 +32,14 @@
 
 .spacer{
 
-  &.button-spacer{
-    width: $space-xs;
+  &.button-spacer-1{
+    width: $button-spacer-large;
+  }
+  &.button-spacer-2{
+    width: $button-spacer-medium;
+  }
+  &.button-spacer-3{
+    width: $button-spacer-small;
   }
 
   &.space-m{
@@ -46,7 +52,17 @@
 
 }
 
+.divider-line{
+  background-color: $divider-line-color;
+  width: 100%;
+  height: rem(1px);
+}
+
 .custom-padding-vertical{
+
+  .s{
+    min-height: $space-s;
+  }
 
   .m{
     min-height: $space-m;

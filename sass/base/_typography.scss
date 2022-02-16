@@ -65,7 +65,7 @@ line-height: $text-line-height-5;
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-5;
-line-height: $text-line-height-4;
+line-height: $text-line-height-3;
 }
 
 .header5
@@ -73,7 +73,7 @@ line-height: $text-line-height-4;
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-3;
-line-height: $text-line-height-3;
+line-height: $text-line-height-2;
 }
 
 .header6
@@ -140,7 +140,11 @@ line-height: $text-line-height-1;
 font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-4;
-line-height: $text-line-height-4;
+line-height: $text-line-height-3;
+
+  &.semibold{
+    font-weight: $text-font-weight-semibold;
+  }
 }
 
 .body2
@@ -149,6 +153,10 @@ font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-3;
 line-height: $text-line-height-3;
+
+  &.semibold{
+    font-weight: $text-font-weight-semibold;
+  }
 }
 
 .body3
@@ -157,6 +165,10 @@ font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-2;
 line-height: $text-line-height-2;
+
+  &.semibold{
+    font-weight: $text-font-weight-semibold;
+  }
 }
 
 .caption
@@ -165,4 +177,28 @@ font-family: Source Sans Pro;
 font-weight: $text-font-weight-regular;
 font-size: $text-font-size-1;
 line-height: $text-line-height-1;
+}
+
+.icon-material-l
+{
+font-family: Material Design Icons;
+font-size: $icon-font-size-material-l;
+}
+
+.icon-material-m
+{
+font-family: Material Design Icons;
+font-size: $icon-font-size-material-m;
+}
+
+.icon-material-s
+{
+font-family: Material Design Icons;
+font-size: $icon-font-size-material-s;
+}
+
+.icon-material-xs
+{
+font-family: Material Design Icons;
+font-size: $icon-font-size-material-xs;
 }
