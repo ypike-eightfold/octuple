@@ -6,7 +6,7 @@
   align-items: stretch;
   //box-shadow: $shadow-object-l;
   width: 100%;
-  border-radius: $space-xxs;
+  border-radius: $space-s;
 
   &.neutral{
     border: rem(2px) solid $color-tertiary-grey;
@@ -27,7 +27,7 @@
   .message-container{
     display: flex;
     flex-direction: row;
-    padding: $space-l-fitted;
+    padding: $space-m;
     align-items: center;
     width: 100%;
     gap: rem(4px);
@@ -55,7 +55,7 @@
     flex-direction: row;
     align-items: center;
     gap: rem(8px);
-    padding: $space-l-fitted;
+    padding: $space-m;
   }
 
 }
@@ -63,6 +63,7 @@
 .p-colors{
   min-width: $space-xs!important;
   display: block;
+  //border-radius: $space-s;
 
   &.neutral{
     background-color: $color-tertiary-grey;

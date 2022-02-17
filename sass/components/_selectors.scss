@@ -120,6 +120,7 @@ input[type=checkbox].with-font:focus-visible ~ label
   height: $space-s;
   border-radius: $space-s;
   margin: $space-xxxs;
+  left: 0px;
   background-color: $color-secondary-grey;
   -webkit-transition: $motion-duration-extra-fast;
   transition: $motion-duration-extra-fast;

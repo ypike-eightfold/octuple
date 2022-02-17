@@ -5,14 +5,14 @@
   background-color: $card-background-color;
   align-items: stretch;
   box-shadow: $shadow-object-l;
-  border-radius: $space-xs;
+  border-radius: $space-s;
   max-width: rem(640px);
   overflow: hidden;
 
   .message-container{
     display: flex;
     flex-direction: row;
-    padding: $space-l-fitted;
+    padding: $space-m;
     align-items: center;
     width: 100%;
     gap: rem(4px);
@@ -40,7 +40,7 @@
     flex-direction: row;
     align-items: center;
     gap: rem(8px);
-    padding: $space-l-fitted;
+    padding: $space-m;
   }
 
 }

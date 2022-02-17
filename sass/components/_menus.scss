@@ -2,6 +2,24 @@
   border-radius: $corner-radius-m;
   position: relative;
   display: inline-block;
+
+  .vertical-navigation{
+    color: $color-primary-grey;
+    font-family: "Open Sans", sans-serif!important;
+    list-style-type: none;
+    margin-left: -40px;
+
+
+  }
+}
+
+li:hover + .menu-item{
+
+  &.hover {
+    background: $eightfold-logo-gradient;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 }
 
 .button-menu-default {

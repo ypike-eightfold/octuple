@@ -117,6 +117,10 @@ font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-5;
 line-height: $text-line-height-3;
+
+&.open-sans{
+  font-family: "Open Sans", sans-serif;
+}
 }
 
 .button2
@@ -125,6 +129,10 @@ font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-3;
 line-height: $text-line-height-2;
+
+&.open-sans{
+  font-family: "Open Sans", sans-serif;
+}
 }
 
 .button3
@@ -133,6 +141,10 @@ font-family: Source Sans Pro;
 font-weight: $text-font-weight-semibold;
 font-size: $text-font-size-2;
 line-height: $text-line-height-1;
+
+&.open-sans{
+  font-family: "Open Sans", sans-serif;
+}
 }
 
 .body1
@@ -144,6 +156,10 @@ line-height: $text-line-height-3;
 
   &.semibold{
     font-weight: $text-font-weight-semibold;
+  }
+
+  &.open-sans{
+    font-family: "Open Sans", sans-serif;
   }
 }
 
@@ -157,6 +173,10 @@ line-height: $text-line-height-3;
   &.semibold{
     font-weight: $text-font-weight-semibold;
   }
+
+  &.open-sans{
+    font-family: "Open Sans", sans-serif;
+  }
 }
 
 .body3
@@ -168,6 +188,10 @@ line-height: $text-line-height-2;
 
   &.semibold{
     font-weight: $text-font-weight-semibold;
+  }
+
+  &.open-sans{
+    font-family: "Open Sans", sans-serif;
   }
 }
 

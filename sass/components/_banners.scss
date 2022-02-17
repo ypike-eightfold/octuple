@@ -58,6 +58,7 @@
 .priority-colors{
   min-width: $space-xs!important;
   display: block;
+  border-radius: $space-s;
 
   &.neutral{
     background-color: $color-tertiary-grey;

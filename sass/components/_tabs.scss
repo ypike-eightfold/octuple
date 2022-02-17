@@ -5,6 +5,10 @@
   display: flex;
   //top: -106px;
   border-bottom: rem(1px) solid $divider-line-color;
+
+  &.align-right{
+    justify-content: flex-end;
+  }
 }
 
 input[type="radio"] {
