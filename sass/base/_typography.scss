@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('../../webfonts/SourceSansPro-Regular.eot');
+  src: url('../../webfonts/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../../webfonts/SourceSansPro-Regular.woff2') format('woff2'),
+      url('../../webfonts/SourceSansPro-Regular.woff') format('woff'),
+      url('../../webfonts/SourceSansPro-Regular.ttf') format('truetype'),
+      url('../../webfonts/SourceSansPro-Regular.svg#SourceSansPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .display1
 { // Display 1
 font-family: Source Sans Pro;
