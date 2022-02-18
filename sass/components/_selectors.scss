@@ -15,7 +15,7 @@ input[type=radio].with-font ~ label:before
     font-family: Material Design Icons;
     display: inline-block;
     content: "\F0130";  /* mdi-checkbox-blank-circle-outline */
-    color: $color-secondary-blue;
+    color: $color-secondary-grey;
     font-size: $icon-font-size-material-l;
     line-height: $text-line-height-3;
     transition: all $motion-duration-extra-fast $motion-easing-easeinout 0s;
@@ -45,7 +45,7 @@ input[type=checkbox].with-font ~ label:before {
     content: "\F0131";  /* mdi-checkbox-blank-outline */
     font-size: $icon-font-size-material-l;
     line-height: $text-line-height-3;
-    color: $color-secondary-blue;
+    color: $color-secondary-grey;
     transition: all $motion-duration-extra-fast $motion-easing-easeinout 0s;
 }
 input[type=checkbox].with-font:hover ~ label:before {
@@ -79,7 +79,17 @@ input[type=checkbox].with-font:focus-visible ~ label
   width: $space-xxl;
   height: $space-l-fitted;
   border-radius: $space-s;
-  border: $space-xxxs solid $color-secondary-blue;
+  border: $space-xxxs solid $color-secondary-grey;
+  //background-color: $color-secondary-blue;
+}
+
+.switch-body:before {
+  position: relative;
+  display: inline-block;
+  width: $space-xxl;
+  height: $space-l-fitted;
+  border-radius: $space-s;
+  border: $space-xxxs solid $color-secondary-grey;
   //background-color: $color-secondary-blue;
 }
 
@@ -110,7 +120,8 @@ input[type=checkbox].with-font:focus-visible ~ label
   height: $space-s;
   border-radius: $space-s;
   margin: $space-xxxs;
-  background-color: $color-secondary-blue;
+  left: 0px;
+  background-color: $color-secondary-grey;
   -webkit-transition: $motion-duration-extra-fast;
   transition: $motion-duration-extra-fast;
 }
@@ -120,6 +131,13 @@ input:checked + .switch-slider {
 }
 input:checked + .switch-slider:before {
   background-color: $card-background-color;
+}
+
+input:checked + .switch-body {
+  border: $space-xxxs solid $color-secondary-blue!important;
+}
+input:checked + .switch-body:before {
+  border: $space-xxxs solid $color-secondary-grey!important;
 }
 
 

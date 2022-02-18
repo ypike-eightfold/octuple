@@ -11,7 +11,7 @@ input[type=text]::-webkit-search-cancel-button,
     font-family: Material Design Icons;
     background-image: url(../images/search-cancel.svg);
     background-repeat: no-repeat;
-    color: $grey40;
+    color: $grey50;
     font-size: $icon-font-size-material-m;
     line-height: $text-line-height-2;
     transition: all $motion-duration-extra-fast $motion-easing-easeinout 0s;
@@ -87,7 +87,7 @@ input[type=text], input[type=search] {
   //max-height: 20px;
   align-items: center;
   text-align: center;
-  color: $grey40;
+  color: $grey50;
   position: relative;
   transition: all $motion-duration-extra-fast $motion-easing-easeinout 0s;
   //padding: 4px;

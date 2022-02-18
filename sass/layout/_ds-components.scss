@@ -1,6 +1,10 @@
 .flexible-margin{
   margin: auto;
   max-width: 1440px;
+
+  &.open{
+    max-width: 1800px;
+  }
 }
 
 .container{
@@ -11,7 +15,7 @@
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: minmax( rem(8px), auto);
   //justify-content: center;
-  padding: $space-xl 0;
+  padding: rem(40px) $disabled-zero;
   //background-color: $blue10;
   //grid-column: 1/13;
 
