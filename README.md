@@ -15,7 +15,7 @@ A simple node application that serves static HTML, Fonts, Images, and CSS for re
 1. Open a command prompt (Windows) or terminal (OSX, Linux)
 1. Navigate to the **octuple** directory
 1. Run `npm install`
-1. Run `grunt dev` for unminified CSS or `grunt prod` for minified CSS
+1. Run `grunt dev` for unminified CSS or `grunt prod` for minified CSS, OR `grunt watch:sass` to run both the compiler and the watcher to see changes as you make them after the css is recompiled, refresh the browser to see the changes.
 1. Run `npm start`
 1. Open the default web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the design tokens
 

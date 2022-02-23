@@ -24,10 +24,12 @@ module.exports = function(grunt) {
       }
 
     },
+
+    // watch
     watch: {
       sass: {
         files: [
-          'sass/*.scss'
+          'sass/**/*.scss'
         ],
         tasks: ['sass:dev']
       }
